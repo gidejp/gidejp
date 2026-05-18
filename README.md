@@ -1,1 +1,5 @@
-# gidejp
+# Yahoo Shopping Price Dashboard
+
+このアプリケーションは、利用者本人が管理する仕入れ候補Excelを読み込み、Yahoo!ショッピング商品検索APIを利用して、商品候補の価格調査を補助する個人用Dashboardです。
+
+本アプリケーションは、Yahoo!ショッピングの商品検索APIの利用制限を遵守し、取得した商品情報について取得日時・参照元URLを記録します。
